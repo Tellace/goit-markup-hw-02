@@ -1,0 +1,13 @@
+:root {
+  --primary-title-color: #ffffff;
+  --secondary-title-color: #212121;
+  --primary-text-color: #757575;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.information {
+  font-style: normal;
+}
